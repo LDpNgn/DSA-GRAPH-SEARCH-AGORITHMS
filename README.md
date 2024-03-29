@@ -12,8 +12,9 @@ This project aims to study and implement graph search algorithms such as DFS, BF
 
 ## Team Members
 
-- Name: Nguyen Thi Lan Diep
-- Name: Huynh Le Minh Thu
+- **[Nguyen Thi Lan Diep](https://github.com/LDpNgn)**
+- **[Huynh Le Minh Thu](https://github.com/Hummingbirdsthu)**
+
 
 ## Usage
 
