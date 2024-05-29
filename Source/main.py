@@ -1,4 +1,4 @@
-from SearchAlgorithms import *
+from SearchAlgorithms import *   
 import argparse
 
 def main(algo:str, start_pos:int, goal_pos:int):
