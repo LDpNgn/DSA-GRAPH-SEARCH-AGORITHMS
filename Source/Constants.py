@@ -1,5 +1,5 @@
 grey = (100, 100, 100)  # color for node in the path
-white = (255, 255, 255)  # color for text
+white = (255, 255, 255)  # color for text    
 yellow = (200, 200, 0)  # current node
 red = (200, 0, 0)  # discovered node
 blue = (30, 144, 255)  # completed node (item of closed set)
