@@ -4,7 +4,7 @@ from Constants import *
 def DFS(g:Graph, sc:pygame.Surface):
     print('Implement DFS algorithm')
 
-    open_set = [g.start.value]
+    open_set = [g.start.value]     
     closed_set = []
     father = [-1]*g.get_len()
     
